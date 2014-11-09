@@ -1,5 +1,5 @@
 name: server
-description: A simple application server
 dependencies:
   redstone: '>=0.5.9 <0.6.0'
+
 
