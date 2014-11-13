@@ -1,5 +1,0 @@
-name: server
-dependencies:
-  redstone: '>=0.5.9 <0.6.0'
-
-
